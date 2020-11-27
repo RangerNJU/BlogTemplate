@@ -1,6 +1,7 @@
 ---
 title:  "未曾设想的道路"
 date: 2020-10-10T10:30:00+08:00
+lastmod: 2020-11-26T10:30:00+08:00
 author: Ranger
 cover: /img/TechLog/university.jpg
 images:
