@@ -63,4 +63,4 @@ draft: false
     -   吐槽一个国内报告的常见毛病：字太多，结构太复杂。进而导致有效信息传递得太少。
     -   再吐槽一个身边看到的奇妙现象：听不懂/听不下去，为什么要在iPad上看代码/在讲座现场睡觉/和npy聊天？
 -   尝试内嵌视频：
-<iframe src="//player.bilibili.com/player.html?aid=91858985&bvid=BV1b7411K7P4&cid=156848766&olling="npage=1" scro" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe title="Hey there!" width="1280" height="720" src="//player.bilibili.com/player.html?aid=91858985&bvid=BV1b7411K7P4&cid=156848766&olling="npage=1" scro" border="0" frameborder="yes" framespacing="0" allow="fullscreen" align="middle"> </iframe>
