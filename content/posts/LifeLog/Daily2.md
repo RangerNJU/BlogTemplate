@@ -25,4 +25,5 @@ draft: false
 
 -   学习这件事情真的能够因为材料选择而又很大的不同。国内还真没有像[这样](https://www.youtube.com/watch?v=DBp5EPN7qnI&list=PLUXMJZzb4M3bNUo1jFQYhfjxP7m_-dMPu&ab_channel=Udacity)丰富又有趣的计算理论课程材料。
     -   ~~果然我也算是1080端口大学毕业的一员吧~~
--   其实这么一想，一年考N1跟[他们家](https://www.youtube.com/watch?v=PzERN1A_IwE&ab_channel=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E6%A3%AE)关系密不可分。
+-   其实这么一想，一年考N1跟[他们家](https://www.youtube.com/watch?v=PzERN1A_IwE&ab_channel=%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E6%A3%AE)关系密不可分。（有雇员了居然一个月才收费980日元，怕不是亏本在做？）
+-   路上看到南京也要做垃圾分类了，可是分类的名字好难懂啊。还是札幌的玻璃、金属、塑料、纸张和可燃分类比较友善。
