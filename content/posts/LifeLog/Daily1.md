@@ -4,6 +4,7 @@ date: 2020-11-23T19:34:26+08:00
 cover: /img/LifeLog/D1-1.jpg
 images:
   - /img/LifeLog/D1-1.jpg
+  - /img/LifeLog/D1-2.jpg
 categories:
   - 生活
 tags:
@@ -22,6 +23,7 @@ draft: false
 -   下午收到了美国朋友分享的周末登山照片，这样的念头一闪而过——“不考虑ranking而去hiking的生活，又何尝不是值得热爱的？”
 
 <img src="/img/LifeLog/D1-1.jpg" width=70% div align=center>
+<img src="/img/LifeLog/D1-2.jpg" width=70% div align=center>
 
 ## 24日
 
