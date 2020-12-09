@@ -1,5 +1,6 @@
 .DS_Store
 
 public
+diary
 themes/*
 !themes/.gitkeep
